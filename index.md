@@ -15,3 +15,5 @@ zh_tw: "&e更新支持1.18+的伺服器且修復了一些Bug"
 
 
 zh_cn: "&e更新支持1.18+的服务器且修复了一些Bug"
+
+## Welcome to GitHub Pages
