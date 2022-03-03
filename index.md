@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-latest-version: "1.2.1"
+latest-version: "1.2.6"
 
 
 link: "https://github.com/Tining123/DemonMarket"
