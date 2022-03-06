@@ -1,16 +1,16 @@
 ## Welcome to GitHub Pages
-latest-version: "1.2.6"
+latest-version: "1.2.8"
 
 
 link: "https://github.com/Tining123/DemonMarket"
 
 
-en: "1.18+ server supported and fixed some minor bugs."
+en: "Price viewer supported and fixed a fatal bugs."
 
 
-zh_tw: "更新支持1.18+的伺服器且修復了一些Bug"
+zh_tw: "支持價格GUI顯示以及修復了一個嚴重bug"
 
 
-zh_cn: "更新支持1.18+的服务器且修复了一些Bug"
+zh_cn: "支持价格GUI显示以及修复了一个严重bug"
 
 ## Welcome to GitHub Pages
