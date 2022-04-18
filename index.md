@@ -1,16 +1,16 @@
 ## Welcome to GitHub Pages
-latest-version: "1.3.0"
+latest-version: "1.3.3"
 
 
 link: "https://github.com/Tining123/DemonMarket"
 
 
-en: "Now DemonMarket is compatible with the Chestcommands plugin."
+en: "Provide transfer unit and transfer limitation setting, and fix some bugs."
 
 
-zh_tw: "相容chestcommands挿件，修復該挿件搭配使用帶來的刷物品bug。"
+zh_tw: "提供轉帳組織和轉帳上限設定功能，修復一些bug"
 
 
-zh_cn: "兼容chestcommands插件，修复该插件搭配使用带来的刷物品bug。"
+zh_cn: "提供转账单位和转账上限配置功能，修复一些bug"
 
 ## Welcome to GitHub Pages
