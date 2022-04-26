@@ -1,16 +1,16 @@
 ## Welcome to GitHub Pages
-latest-version: "1.3.3"
+latest-version: "1.3.4"
 
 
 link: "https://github.com/Tining123/DemonMarket"
 
 
-en: "Provide transfer unit and transfer limitation setting, and fix some bugs."
+en: "Fix the bug that SUM text cannot be loaded from the language config."
 
 
-zh_tw: "提供轉帳組織和轉帳上限設定功能，修復一些bug"
+zh_tw: "修復合計字樣無法被語言檔案修改的bug"
 
 
-zh_cn: "提供转账单位和转账上限配置功能，修复一些bug"
+zh_cn: "修复合计字样无法被语言文件修改的bug"
 
 ## Welcome to GitHub Pages
