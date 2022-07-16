@@ -1,16 +1,16 @@
 ## Welcome to GitHub Pages
-latest-version: "1.3.4"
+latest-version: "1.3.6"
 
 
 link: "https://github.com/Tining123/DemonMarket"
 
 
-en: "Fix the bug that SUM text cannot be loaded from the language config."
+en: "Update the supporting for 1.19 and add some new functions"
 
 
-zh_tw: "修復合計字樣無法被語言檔案修改的bug"
+zh_tw: "更新對1.19的支持，新增部分功能"
 
 
-zh_cn: "修复合计字样无法被语言文件修改的bug"
+zh_cn: "更新对1.19的支持，新增部分功能"
 
 ## Welcome to GitHub Pages
