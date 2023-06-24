@@ -1,16 +1,16 @@
 ## Welcome to GitHub Pages
-latest-version: "1.4.0"
+latest-version: "1.5.0"
 
 
 link: "https://github.com/Tining123/DemonMarket"
 
 
-en: "Supporting Arclight Server"
+en: "Shop! new feature release. "
 
 
-zh_tw: "更新对Arclight的支持"
+zh_tw: "現已支持購買功能！重要更新！"
 
 
-zh_cn: "支持Arclight"
+zh_cn: "现已支持购买功能！重要更新！"
 
 ## Welcome to GitHub Pages
