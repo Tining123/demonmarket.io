@@ -1,16 +1,16 @@
 ## Welcome to GitHub Pages
-latest-version: "1.5.2"
+latest-version: "1.6.1"
 
 
 link: "https://github.com/Tining123/DemonMarket"
 
 
-en: "Shop! new feature release. "
+en: "Fix vital bugs about market command！"
 
 
-zh_tw: "現已支持購買功能！重要更新！"
+zh_tw: "現已支持市場功能，修復重要bug"
 
 
-zh_cn: "现已支持购买功能！重要更新！"
+zh_cn: "现已支持市场功能，修复重要bug"
 
 ## Welcome to GitHub Pages
