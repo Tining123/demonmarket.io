@@ -1,16 +1,13 @@
 ## Welcome to GitHub Pages
-latest-version: "1.6.6"
 
+latest-version: "1.7"
 
 link: "https://github.com/Tining123/DemonMarket"
 
+en: "Now supports Minecraft 1.20+ and Folia. Please update as soon as possible!"
 
-en: "Fix market issues. Prevent excessive purchases of official merchandise.！Please Update ASAP！"
+zh_tw: "现已支持 Minecraft 1.20+ 与 Folia，请尽快升级！"
 
-
-zh_tw: "修复market问题。阻止过量购买官方商品物品！！！请立即升级"
-
-
-zh_cn: "修复market问题。阻止过量购买官方商品物品！！！请立即升级"
+zh_cn: "现已支持 Minecraft 1.20+ 与 Folia，请尽快升级！"
 
 ## Welcome to GitHub Pages
